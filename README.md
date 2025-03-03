@@ -44,7 +44,7 @@ This project was built using the following technologies.
 * Research Component - Preprocessing Algorithm
 
 ## **🚀 Installation**
-- Clone the repository: https://github.com/Rashmi-Mendis/Real-Time-Traffic-Sign-Recognition-System-Imlementation-1.git
+- Repository : https://github.com/Rashmi-Mendis/Real-Time-Traffic-Sign-Recognition-System-Implementation-1.git
 
 Published on Monday, 8 July 2024
 
