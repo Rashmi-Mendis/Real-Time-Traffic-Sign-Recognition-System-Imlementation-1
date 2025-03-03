@@ -46,3 +46,5 @@ This project was built using the following technologies.
 ## **🚀 Installation**
 - Clone the repository: https://github.com/Rashmi-Mendis/Real-Time-Traffic-Sign-Recognition-System-Imlementation-1.git
 
+Published on Monday, 8 July 2024
+
